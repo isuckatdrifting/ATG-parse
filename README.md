@@ -8,5 +8,5 @@ The result will be printed on terminal. You may manually copy it to a text file 
 Example Usage -- Binary to Hex Table
 
 `
-Python3 bin2hex.py ./src/addr.coe ./src/data.coe ./ctrl.coe ./mask.coe
+Python3 bin2hex.py ./example/addr.coe ./example/data.coe ./example/ctrl.coe ./example/mask.coe
 `
